@@ -1,0 +1,9 @@
+Posted On;Merchant;Debit/Credit Amt;Bank;Type
+03/15/2026;Supermercado Extra;152,90;Itau;Food
+03/16/2026;Uber *Trip;23,50;Itau;Transport
+03/17/2026;Salario Empresa XYZ;-4.500,00;Itau;Income
+03/18/2026;Netflix;55,90;Cartao Fantasma;Entertainment
+03/19/2026;Farmacia;1.234,56;Conta Inexistente;Health
+13/45/2026;Linha com data invalida;10,00;Itau;Misc
+03/20/2026;Linha sem valor;;Itau;Misc
+03/21/2026;;89,90;Itau;

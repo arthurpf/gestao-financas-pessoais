@@ -1,0 +1,18 @@
+appId: com.arthurpf4.gestaofinancaspessoais
+productName: GestaoFinancasPessoais
+npmRebuild: false
+directories:
+  buildResources: resources
+  output: dist
+files:
+  - out/**/*
+  - '!**/*.ts'
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+asarUnpack:
+  - '**/*.node'
